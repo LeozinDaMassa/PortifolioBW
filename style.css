@@ -346,3 +346,9 @@ article {
 article .icon {
   cursor: default;
 }
+
+/* Project Section*/
+
+#projects {
+  position: relative;
+}
